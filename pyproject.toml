@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "django-click-send-sms"
+version = "1.0.0"
+description = "A lightweight Django app for sending SMS messages through the ClickSend REST API."
+authors = [
+  {name = "Mohammed Shahid", email = "shahidmohammedmsp@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.7"
+license = {text = "MIT"}
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/pkshahid/django-click-send-sms"

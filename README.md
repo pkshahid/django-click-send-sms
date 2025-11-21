@@ -175,4 +175,4 @@ twine upload dist/*
 
 ## License
 
-This project is licensed under the MIT License.
+This project is free and open-source.
