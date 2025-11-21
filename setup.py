@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="django-clicksend-sms",
-    version="1.0.0",
+    version="1.0.3",
     description="Django app for sending SMS using ClickSend API",
     author="Mohammed Shahid",
     packages=find_packages(),
